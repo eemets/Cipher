@@ -1,0 +1,6 @@
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\Лозунговый шифр\bin\Debug\Лозунговый_шифр.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\Лозунговый шифр\bin\Debug\Лозунговый_шифр.pdb
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\Лозунговый шифр\obj\Debug\Лозунговый шифр.csprojAssemblyReference.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\Лозунговый шифр\obj\Debug\Лозунговый шифр.csproj.CoreCompileInputs.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\Лозунговый шифр\obj\Debug\Лозунговый_шифр.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\Лозунговый шифр\obj\Debug\Лозунговый_шифр.pdb

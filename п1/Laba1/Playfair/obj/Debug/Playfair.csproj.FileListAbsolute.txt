@@ -1,0 +1,6 @@
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\Playfair\bin\Debug\Playfair.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\Playfair\bin\Debug\Playfair.pdb
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\Playfair\obj\Debug\Playfair.csprojAssemblyReference.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\Playfair\obj\Debug\Playfair.csproj.CoreCompileInputs.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\Playfair\obj\Debug\Playfair.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\Playfair\obj\Debug\Playfair.pdb

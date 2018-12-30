@@ -1,0 +1,6 @@
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\Simple\bin\Debug\Simple.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\Simple\bin\Debug\Simple.pdb
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\Simple\obj\Debug\Simple.csprojAssemblyReference.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\Simple\obj\Debug\Simple.csproj.CoreCompileInputs.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\Simple\obj\Debug\Simple.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\Simple\obj\Debug\Simple.pdb

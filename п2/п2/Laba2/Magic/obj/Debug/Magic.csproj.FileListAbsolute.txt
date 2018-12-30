@@ -1,0 +1,6 @@
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\Magic\bin\Debug\Magic.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\Magic\bin\Debug\Magic.pdb
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\Magic\obj\Debug\Magic.csprojAssemblyReference.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\Magic\obj\Debug\Magic.csproj.CoreCompileInputs.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\Magic\obj\Debug\Magic.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\Magic\obj\Debug\Magic.pdb

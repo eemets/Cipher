@@ -1,0 +1,6 @@
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\double\obj\Debug\double.csprojAssemblyReference.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\double\obj\Debug\double.csproj.CoreCompileInputs.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\double\bin\Debug\double.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\double\bin\Debug\double.pdb
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\double\obj\Debug\double.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\double\obj\Debug\double.pdb

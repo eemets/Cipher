@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\emets\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_Gamma.967303246.00" t="ExcludeRecursive" />
+    <e p="C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п3\п3\Gamma" t="IncludeFlat">
+      <e p="Gamma" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Gamma.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Gamma.sln" t="IncludeFlat" />
+      <e p="Gamma2" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Gamma2.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive">
+        <e p="NUnit3TestAdapter.3.10.0\build\net35\Mono.Cecil.dll" t="Include" />
+        <e p="NUnit3TestAdapter.3.10.0\build\net35\nunit.engine.api.dll" t="Include" />
+        <e p="NUnit3TestAdapter.3.10.0\build\net35\nunit.engine.dll" t="Include" />
+        <e p="NUnit3TestAdapter.3.10.0\build\net35\NUnit3.TestAdapter.dll" t="Include" />
+        <e p="NUnit3TestAdapter.3.10.0\build\net35\NUnit3.TestAdapter.pdb" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

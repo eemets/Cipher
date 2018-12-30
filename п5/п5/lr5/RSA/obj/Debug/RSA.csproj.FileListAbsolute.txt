@@ -1,0 +1,12 @@
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п5\п5\lr5\RSA\bin\Debug\RSA.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п5\п5\lr5\RSA\bin\Debug\RSA.pdb
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п5\п5\lr5\RSA\obj\Debug\RSA.csprojAssemblyReference.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п5\п5\lr5\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п5\п5\lr5\RSA\obj\Debug\RSA.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п5\п5\lr5\RSA\obj\Debug\RSA.pdb
+C:\Users\emets\OneDrive\Edu\University\3 курс\ЗПД упроядоченно\модуль 1\п5\п5\lr5\RSA\bin\Debug\RSA.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\ЗПД упроядоченно\модуль 1\п5\п5\lr5\RSA\bin\Debug\RSA.pdb
+C:\Users\emets\OneDrive\Edu\University\3 курс\ЗПД упроядоченно\модуль 1\п5\п5\lr5\RSA\obj\Debug\RSA.csprojAssemblyReference.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\ЗПД упроядоченно\модуль 1\п5\п5\lr5\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\ЗПД упроядоченно\модуль 1\п5\п5\lr5\RSA\obj\Debug\RSA.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\ЗПД упроядоченно\модуль 1\п5\п5\lr5\RSA\obj\Debug\RSA.pdb

@@ -1,0 +1,6 @@
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\VigenereCiper\bin\Debug\VigenereCiper.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\VigenereCiper\bin\Debug\VigenereCiper.pdb
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\VigenereCiper\obj\Debug\VigenereCiper.csprojAssemblyReference.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\VigenereCiper\obj\Debug\VigenereCiper.csproj.CoreCompileInputs.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\VigenereCiper\obj\Debug\VigenereCiper.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\VigenereCiper\obj\Debug\VigenereCiper.pdb

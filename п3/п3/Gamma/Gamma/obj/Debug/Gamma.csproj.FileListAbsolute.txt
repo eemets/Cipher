@@ -1,0 +1,6 @@
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п3\п3\Gamma\Gamma\bin\Debug\Gamma.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п3\п3\Gamma\Gamma\bin\Debug\Gamma.pdb
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п3\п3\Gamma\Gamma\obj\Debug\Gamma.csprojAssemblyReference.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п3\п3\Gamma\Gamma\obj\Debug\Gamma.csproj.CoreCompileInputs.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п3\п3\Gamma\Gamma\obj\Debug\Gamma.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п3\п3\Gamma\Gamma\obj\Debug\Gamma.pdb

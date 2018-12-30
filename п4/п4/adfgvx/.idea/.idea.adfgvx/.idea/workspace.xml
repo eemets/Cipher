@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb09efda-1c7c-4302-88de-8f6ac87f3086" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/adfgvx/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="467">
+              <caret line="341" column="45" selection-start-line="341" selection-start-column="31" selection-end-line="341" selection-end-column="45" />
+              <folding>
+                <marker date="1539756259119" expanded="false" signature="6:85" ph="..." />
+                <marker date="1539756259119" expanded="true" signature="103:11713" ph="{...}" />
+                <marker date="1539756259119" expanded="true" signature="128:11138" ph="{...}" />
+                <marker date="1539756259119" expanded="false" signature="201:236" ph="{...}" />
+                <marker date="1539756259119" expanded="false" signature="292:586" ph="{...}" />
+                <marker date="1539756259119" expanded="false" signature="650:892" ph="{...}" />
+                <marker date="1539756259119" expanded="false" signature="952:4428" ph="{...}" />
+                <marker date="1539756259119" expanded="true" signature="1129:4384" ph="{...}" />
+                <marker date="1539756259119" expanded="false" signature="4489:5343" ph="{...}" />
+                <marker date="1539756259119" expanded="true" signature="4749:4871" ph="{...}" />
+                <marker date="1539756259119" expanded="true" signature="5028:5299" ph="{...}" />
+                <marker date="1539756259119" expanded="true" signature="5069:5285" ph="{...}" />
+                <marker date="1539756259119" expanded="false" signature="5409:5659" ph="{...}" />
+                <marker date="1539756259119" expanded="true" signature="5502:5615" ph="{...}" />
+                <marker date="1539756259119" expanded="true" signature="5712:5912" ph="{...}" />
+                <marker date="1539756259119" expanded="false" signature="5963:6424" ph="{...}" />
+                <marker date="1539756259119" expanded="true" signature="6054:6370" ph="{...}" />
+                <marker date="1539756259119" expanded="true" signature="6082:6356" ph="{...}" />
+                <marker date="1539756259119" expanded="true" signature="6474:7179" ph="{...}" />
+                <marker date="1539756259119" expanded="true" signature="6634:6815" ph="{...}" />
+                <marker date="1539756259119" expanded="true" signature="6990:7135" ph="{...}" />
+                <marker date="1539756259119" expanded="false" signature="7240:11132" ph="{...}" />
+                <marker date="1539756259119" expanded="true" signature="7338:11088" ph="{...}" />
+                <marker date="1539756259119" expanded="true" signature="7366:11074" ph="{...}" />
+                <marker date="1539756259119" expanded="true" signature="11164:11711" ph="{...}" />
+                <marker date="1539756259119" expanded="true" signature="11217:11705" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/adfgvx/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/adfgvx/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="975" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="adfgvx (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.adfgvx">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+    <configuration name="adfgvx" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/adfgvx/bin/Debug/adfgvx.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/adfgvx/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/adfgvx/adfgvx.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+      <item itemvalue=".NET Project.adfgvx" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.adfgvx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb09efda-1c7c-4302-88de-8f6ac87f3086" name="Default" comment="" />
+      <created>1539247052172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539247052172</updated>
+      <workItem from="1539247053566" duration="283000" />
+      <workItem from="1539247379180" duration="2471000" />
+      <workItem from="1539756211997" duration="280000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3034000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37749287" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16107382" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.0" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/adfgvx/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" selection-end-line="347" selection-end-column="1" />
+          <folding>
+            <marker date="1539756259119" expanded="false" signature="6:85" ph="..." />
+            <marker date="1539756259119" expanded="true" signature="103:11713" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="128:11138" ph="{...}" />
+            <marker date="1539756259119" expanded="false" signature="201:236" ph="{...}" />
+            <marker date="1539756259119" expanded="false" signature="292:586" ph="{...}" />
+            <marker date="1539756259119" expanded="false" signature="650:892" ph="{...}" />
+            <marker date="1539756259119" expanded="false" signature="952:4428" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="1129:4384" ph="{...}" />
+            <marker date="1539756259119" expanded="false" signature="4489:5343" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="4749:4871" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="5028:5299" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="5069:5285" ph="{...}" />
+            <marker date="1539756259119" expanded="false" signature="5409:5659" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="5502:5615" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="5712:5912" ph="{...}" />
+            <marker date="1539756259119" expanded="false" signature="5963:6424" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="6054:6370" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="6082:6356" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="6474:7179" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="6634:6815" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="6990:7135" ph="{...}" />
+            <marker date="1539756259119" expanded="false" signature="7240:11132" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="7338:11088" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="7366:11074" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="11164:11711" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="11217:11705" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adfgvx/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="165" column="32" selection-start-line="165" selection-start-column="32" selection-end-line="165" selection-end-column="32" />
+          <folding>
+            <marker date="1539756259119" expanded="false" signature="6:85" ph="..." />
+            <marker date="1539756259119" expanded="true" signature="103:11713" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="128:11138" ph="{...}" />
+            <marker date="1539756259119" expanded="false" signature="201:236" ph="{...}" />
+            <marker date="1539756259119" expanded="false" signature="292:586" ph="{...}" />
+            <marker date="1539756259119" expanded="false" signature="650:892" ph="{...}" />
+            <marker date="1539756259119" expanded="false" signature="952:4428" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="1129:4384" ph="{...}" />
+            <marker date="1539756259119" expanded="false" signature="4489:5343" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="4749:4871" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="5028:5299" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="5069:5285" ph="{...}" />
+            <marker date="1539756259119" expanded="false" signature="5409:5659" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="5502:5615" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="5712:5912" ph="{...}" />
+            <marker date="1539756259119" expanded="false" signature="5963:6424" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="6054:6370" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="6082:6356" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="6474:7179" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="6634:6815" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="6990:7135" ph="{...}" />
+            <marker date="1539756259119" expanded="false" signature="7240:11132" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="7338:11088" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="7366:11074" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="11164:11711" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="11217:11705" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adfgvx/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="341" column="45" selection-start-line="341" selection-start-column="31" selection-end-line="341" selection-end-column="45" />
+          <folding>
+            <marker date="1539756259119" expanded="false" signature="6:85" ph="..." />
+            <marker date="1539756259119" expanded="true" signature="103:11713" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="128:11138" ph="{...}" />
+            <marker date="1539756259119" expanded="false" signature="201:236" ph="{...}" />
+            <marker date="1539756259119" expanded="false" signature="292:586" ph="{...}" />
+            <marker date="1539756259119" expanded="false" signature="650:892" ph="{...}" />
+            <marker date="1539756259119" expanded="false" signature="952:4428" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="1129:4384" ph="{...}" />
+            <marker date="1539756259119" expanded="false" signature="4489:5343" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="4749:4871" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="5028:5299" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="5069:5285" ph="{...}" />
+            <marker date="1539756259119" expanded="false" signature="5409:5659" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="5502:5615" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="5712:5912" ph="{...}" />
+            <marker date="1539756259119" expanded="false" signature="5963:6424" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="6054:6370" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="6082:6356" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="6474:7179" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="6634:6815" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="6990:7135" ph="{...}" />
+            <marker date="1539756259119" expanded="false" signature="7240:11132" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="7338:11088" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="7366:11074" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="11164:11711" ph="{...}" />
+            <marker date="1539756259119" expanded="true" signature="11217:11705" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

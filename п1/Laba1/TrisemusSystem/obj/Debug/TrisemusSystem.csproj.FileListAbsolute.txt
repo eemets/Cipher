@@ -1,0 +1,6 @@
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\TrisemusSystem\bin\Debug\TrisemusSystem.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\TrisemusSystem\bin\Debug\TrisemusSystem.pdb
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\TrisemusSystem\obj\Debug\TrisemusSystem.csprojAssemblyReference.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\TrisemusSystem\obj\Debug\TrisemusSystem.csproj.CoreCompileInputs.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\TrisemusSystem\obj\Debug\TrisemusSystem.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\TrisemusSystem\obj\Debug\TrisemusSystem.pdb

@@ -1,0 +1,6 @@
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\Vertical\obj\Debug\Vertical.csprojAssemblyReference.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\Vertical\obj\Debug\Vertical.csproj.CoreCompileInputs.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\Vertical\bin\Debug\Vertical.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\Vertical\bin\Debug\Vertical.pdb
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\Vertical\obj\Debug\Vertical.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\Vertical\obj\Debug\Vertical.pdb

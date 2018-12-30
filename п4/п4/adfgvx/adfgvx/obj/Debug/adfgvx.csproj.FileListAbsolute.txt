@@ -1,0 +1,6 @@
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п4\п4\adfgvx\adfgvx\obj\Debug\adfgvx.csprojAssemblyReference.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п4\п4\adfgvx\adfgvx\obj\Debug\adfgvx.csproj.CoreCompileInputs.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п4\п4\adfgvx\adfgvx\bin\Debug\adfgvx.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п4\п4\adfgvx\adfgvx\bin\Debug\adfgvx.pdb
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п4\п4\adfgvx\adfgvx\obj\Debug\adfgvx.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п4\п4\adfgvx\adfgvx\obj\Debug\adfgvx.pdb

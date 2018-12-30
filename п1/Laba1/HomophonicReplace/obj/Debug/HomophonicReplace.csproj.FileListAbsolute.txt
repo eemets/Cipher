@@ -1,0 +1,6 @@
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\HomophonicReplace\bin\Debug\HomophonicReplace.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\HomophonicReplace\bin\Debug\HomophonicReplace.pdb
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\HomophonicReplace\obj\Debug\HomophonicReplace.csprojAssemblyReference.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\HomophonicReplace\obj\Debug\HomophonicReplace.csproj.CoreCompileInputs.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\HomophonicReplace\obj\Debug\HomophonicReplace.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п1\Laba1\HomophonicReplace\obj\Debug\HomophonicReplace.pdb

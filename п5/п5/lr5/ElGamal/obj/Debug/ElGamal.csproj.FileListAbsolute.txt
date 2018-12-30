@@ -1,0 +1,6 @@
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п5\п5\lr5\ElGamal\bin\Debug\ElGamal.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п5\п5\lr5\ElGamal\bin\Debug\ElGamal.pdb
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п5\п5\lr5\ElGamal\obj\Debug\ElGamal.csprojAssemblyReference.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п5\п5\lr5\ElGamal\obj\Debug\ElGamal.csproj.CoreCompileInputs.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п5\п5\lr5\ElGamal\obj\Debug\ElGamal.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п5\п5\lr5\ElGamal\obj\Debug\ElGamal.pdb

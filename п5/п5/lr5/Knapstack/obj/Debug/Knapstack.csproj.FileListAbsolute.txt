@@ -1,0 +1,6 @@
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п5\п5\lr5\Knapstack\obj\Debug\Knapstack.csprojAssemblyReference.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п5\п5\lr5\Knapstack\obj\Debug\Knapstack.csproj.CoreCompileInputs.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п5\п5\lr5\Knapstack\bin\Debug\Knapstack.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п5\п5\lr5\Knapstack\bin\Debug\Knapstack.pdb
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п5\п5\lr5\Knapstack\obj\Debug\Knapstack.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п5\п5\lr5\Knapstack\obj\Debug\Knapstack.pdb

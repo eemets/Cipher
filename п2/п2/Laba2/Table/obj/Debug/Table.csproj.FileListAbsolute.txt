@@ -1,0 +1,6 @@
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\Table\bin\Debug\Table.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\Table\bin\Debug\Table.pdb
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\Table\obj\Debug\Table.csprojAssemblyReference.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\Table\obj\Debug\Table.csproj.CoreCompileInputs.cache
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\Table\obj\Debug\Table.exe
+C:\Users\emets\OneDrive\Edu\University\3 курс\Защита данных\п2\п2\Laba2\Table\obj\Debug\Table.pdb
